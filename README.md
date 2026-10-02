@@ -70,3 +70,10 @@ pip install -r requirements.txt
 
 # Launch application
 streamlit run app.py
+```
+---
+
+## 📚 Scientific References & Standards
+1. **World Health Organization (WHO):** *Guidelines for Drinking-water Quality, 4th Edition (incorporating the 1st and 2nd addenda)*. Geneva: World Health Organization; 2022.
+2. **UNICEF / WHO Joint Monitoring Programme (JMP):** *Progress on Household Drinking Water, Sanitation and Hygiene 2000-2022: Special Focus on Gender*.
+3. **Centers for Disease Control and Prevention (CDC):** *Safe Water System (SWS) Project & Field Treatment Protocols*.
